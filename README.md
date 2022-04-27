@@ -14,7 +14,7 @@ Powerful bot for file sharing without any database
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/laPcn3?referralCode=buttercode)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/laPcn3?referralCode=jugnucode)
 
 - Important Step: 
   - Change webhook of telegram bot `https://api.telegram.org/bot<your-bot-token>/setWebhook?url=https://<yourappname>.herokuapp.com/`
