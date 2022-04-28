@@ -12,7 +12,7 @@ Powerful bot for file sharing without any database
 
 ### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/cyberstainbot/FileBot)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/laPcn3?referralCode=jugnucode)
 
